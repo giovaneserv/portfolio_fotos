@@ -31,6 +31,6 @@ Sinta-se à vontade para ajustar o texto conforme necessário, adicionando mais 
 
 
             Créditos: 
-EDUARDO ALVES DE SOUZA
-RICHARD PROCHEIRA GRIBNER
+EDUARDO ALVES DE SOUZA,
+RICHARD PROCHEIRA GRIBNER,
 OTAVIO DA SILVA
